@@ -25,7 +25,7 @@ The "Level and Crop" panel is in the compositor.
 
 From there, you will see the following fields:
 * Image - the image to work on
-* Rotation - how much to rotate (in degrees) the image by
+* Rotation - how much the image should be rotated by in degrees
 * Estimate Tilt - have the add-on estimate the image tilt
 * Apply Rotation - Calculate the new render dimension after rotation the image
 
