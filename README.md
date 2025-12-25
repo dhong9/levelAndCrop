@@ -20,3 +20,5 @@ From the file dialog prompt, navigate to and select `levelAndCrop/level_and_crop
 
 # Usage
 The "Level and Crop" panel is in the compositor.
+
+![Level and Crop menu](./assets/screenshots/compositorTab.png)
