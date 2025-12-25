@@ -5,7 +5,8 @@ Estimates and recommends image tilt and cropped dimensions
 You can either download this repository as a zip folder or clone it with Git.
 
 To add the extension in Blender, first navigate to Edit/Preferences.
-![Edit menu dropdown](./screenshots/editDropdown.png)
+
+![Edit menu dropdown](./assets/screenshots/editDropdown.png)
 
 # Usage
 The "Level and Crop" panel is in the compositor.
