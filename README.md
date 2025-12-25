@@ -28,3 +28,8 @@ From there, you will see the following fields:
 * Rotation - how much to rotate (in degrees) the image by
 * Estimate Tilt - have the add-on estimate the image tilt
 * Apply Rotation - Calculate the new render dimension after rotation the image
+
+## Loading an Image
+To load an image, first make a new node tree in the compositor.
+
+![New node tree button](./assets/screenshots/newTree.png)
