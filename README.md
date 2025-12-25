@@ -2,7 +2,7 @@
 Estimates and recommends image tilt and cropped dimensions
 
 # Installation
-You can either download this repository as a zip folder or clone it with Git.
+You can either download this repository as a zip folder or clone it with Git. If you downloaded the zip folder, you will need to unzip it.
 
 ![Repo options](./assets/screenshots/repoOptions.png)
 
@@ -13,6 +13,10 @@ To add the extension in Blender, first navigate to Edit/Preferences.
 From the Preferences left sidebar, select "Add-ons." Then, open the dropdown menu in the top left corner and select "Install from Disk..."
 
 ![Add-ons Menu](./assets/screenshots/preferencesMenu.png)
+
+From the file dialog prompt, navigate to and select `levelAndCrop/level_and_crop.py`. You will then see that the add-on is automatically selected.
+
+![Level and Crop selected](./assets/screenshots/selectedAddon.png)
 
 # Usage
 The "Level and Crop" panel is in the compositor.
