@@ -47,3 +47,7 @@ With the new Image node, you can use its Open button to load one of your images.
 Keyboard shortcuts for adjusting preview image zoom:
 * `V` to zoom out
 * `Alt` + `V` to zoom in
+
+So that your original image color quality is preserved, navigate on the right side widget to Render/Color Management/View and change the view to Standard.
+
+![Color Management options](./assets/screenshots/colorManagement.png)
