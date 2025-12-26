@@ -69,3 +69,7 @@ To rotate your image, add a Transform node and input a rotation value in there. 
 To get your new render dimensions after adjustment, input that same rotation value into the Level and Crop widget's Rotation field.
 
 ![Rotation input](./assets/screenshots/rotationInput.png)
+
+The add-on will inform you at the bottom of your window that the new image dimension has been computed.
+
+![Render adjustment log](./assets/screenshots/renderAdjustmentLog.png)
