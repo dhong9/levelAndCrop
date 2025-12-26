@@ -77,3 +77,15 @@ The add-on will inform you at the bottom of your window that the new image dimen
 You can also see those values updated in the Render tab.
 
 ![New dimensions](./assets/screenshots/newDimensions.png)
+
+## Estimating Tilt
+
+You can use the add-on's "Estimate Tilt" button to estimate how much your image should be rotated by to be considered level. When doing so, the add-on will inform you how much your image is tilted by.
+
+![Tilt estimate message](./assets/screenshots/estimateTilt.png)
+
+That value will also be copied to the Level and Crop widget.
+
+![Copied tilt estimate](./assets/screenshots/estimateCopied.png)
+
+Note that the cropped image dimension is not used until you hit "Apply Rotation." If the rotation does not level your image, you can overwrite that value in the Level and Crop widget.
