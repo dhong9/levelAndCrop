@@ -37,3 +37,7 @@ To load an image, first make a new node tree in the compositor.
 Replace the Render node with an Image node.
 
 ![New Image node](./assets/screenshots/newImageNode_edited.png)
+
+With the new Image node, you can use its Open button to load one of your images. Your selected image will also appear in the backdrop as a preview.
+
+![Sun Country preload](./assets/screenshots/sunCountryPreload.png)
