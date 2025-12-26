@@ -65,3 +65,7 @@ From the Level and Crop panel, the Image dropdown lists images that you have loa
 To rotate your image, add a Transform node and input a rotation value in there. Positive values rotate the image __counterclockwise__.
 
 ![Transform node](./assets/screenshots/transformNode.png)
+
+To get your new render dimensions after adjustment, input that same rotation value into the Level and Crop widget's Rotation field.
+
+![Rotation input](./assets/screenshots/rotationInput.png)
