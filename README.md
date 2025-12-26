@@ -33,3 +33,7 @@ From there, you will see the following fields:
 To load an image, first make a new node tree in the compositor.
 
 ![New node tree button](./assets/screenshots/newTree.png)
+
+Replace the Render node with an Image node.
+
+![New Image node](./assets/screenshots/newImageNode_edited.png)
