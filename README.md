@@ -51,3 +51,7 @@ Keyboard shortcuts for adjusting preview image zoom:
 So that your original image color quality is preserved, navigate on the right side widget to Render/Color Management/View and change the view to Standard.
 
 ![Color Management options](./assets/screenshots/colorManagement.png)
+
+In the Output tab, you can configure resolution, default output folder, image extension, and compression.
+
+![Output settings](./assets/screenshots/outputConfig.png)
