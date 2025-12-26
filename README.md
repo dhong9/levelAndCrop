@@ -73,3 +73,7 @@ To get your new render dimensions after adjustment, input that same rotation val
 The add-on will inform you at the bottom of your window that the new image dimension has been computed.
 
 ![Render adjustment log](./assets/screenshots/renderAdjustmentLog.png)
+
+You can also see those values updated in the Render tab.
+
+![New dimensions](./assets/screenshots/newDimensions.png)
