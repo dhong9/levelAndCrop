@@ -1,5 +1,11 @@
 # Level and Crop
-Estimates and recommends image tilt and cropped dimensions
+Blender add-on estimates and recommends image tilt and cropped dimensions. Example titled image:
+
+![United 737 Star Alliance SFO arrival - tilted](./assets/examples/United737_StarAlliance_SFO_Arrival_Tilted.JPG)
+
+After tilt correction:
+
+![United 737 Star Alliance SFO arrival - fixed](./assets/examples/United737_StarAlliance_SFO_Arrival_Fixed.JPG)
 
 # Installation
 You can either download this repository as a zip folder or clone it with Git. If you downloaded the zip folder, you will need to unzip it.
