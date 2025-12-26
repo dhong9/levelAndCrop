@@ -41,3 +41,9 @@ Replace the Render node with an Image node.
 With the new Image node, you can use its Open button to load one of your images. Your selected image will also appear in the backdrop as a preview.
 
 ![Sun Country preload](./assets/screenshots/sunCountryPreload.png)
+
+## Remaining Workspace Setup
+
+Keyboard shortcuts for adjusting preview image zoom:
+* `V` to zoom out
+* `Alt` + `V` to zoom in
