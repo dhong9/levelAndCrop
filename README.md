@@ -43,7 +43,6 @@ With the new Image node, you can use its Open button to load one of your images.
 ![Sun Country preload](./assets/screenshots/sunCountryPreload.png)
 
 ## Remaining Workspace Setup
-
 Keyboard shortcuts for adjusting preview image zoom:
 * `V` to zoom out
 * `Alt` + `V` to zoom in
@@ -55,3 +54,8 @@ So that your original image color quality is preserved, navigate on the right si
 In the Output tab, you can configure resolution, default output folder, image extension, and compression.
 
 ![Output settings](./assets/screenshots/outputConfig.png)
+
+## Picking an Image
+From the Level and Crop panel, the Image dropdown lists images that you have loaded. From there, you select what image you want to work on.
+
+![Image dropdown](./assets/screenshots/imageDropdown.png)
