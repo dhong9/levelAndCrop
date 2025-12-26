@@ -59,3 +59,9 @@ In the Output tab, you can configure resolution, default output folder, image ex
 From the Level and Crop panel, the Image dropdown lists images that you have loaded. From there, you select what image you want to work on.
 
 ![Image dropdown](./assets/screenshots/imageDropdown.png)
+
+## Adjusting Rotation
+
+To rotate your image, add a Transform node and input a rotation value in there. Positive values rotate the image __counterclockwise__.
+
+![Transform node](./assets/screenshots/transformNode.png)
