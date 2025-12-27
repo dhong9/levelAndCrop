@@ -7,6 +7,8 @@ After tilt correction:
 
 ![United 737 Star Alliance SFO arrival - fixed](./assets/examples/United737_StarAlliance_SFO_Arrival_Fixed.JPG)
 
+The add-on optimizes how much image is kept, so your image's original aspect ratio may be lost.
+
 # Installation
 You can either download this repository as a zip folder or clone it with Git. If you downloaded the zip folder, you will need to unzip it.
 
