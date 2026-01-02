@@ -10,7 +10,7 @@ After tilt correction:
 The add-on optimizes how much image is kept, so your image's original aspect ratio may be lost.
 
 # Installation
-You can either download this repository as a zip folder or clone it with Git. If you downloaded the zip folder, you will need to unzip it.
+Before installing, ensure you have the Python libraries and version listed in the `requirements.txt` file. You can either download this repository as a zip folder or clone it with Git. If you downloaded the zip folder, you will need to unzip it.
 
 ![Repo options](./assets/screenshots/repoOptions.png)
 
